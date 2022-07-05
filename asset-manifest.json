@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1ba2e82e.chunk.css",
-    "main.js": "/static/js/main.3e2c0983.chunk.js",
-    "main.js.map": "/static/js/main.3e2c0983.chunk.js.map",
+    "main.js": "/static/js/main.a1187b89.chunk.js",
+    "main.js.map": "/static/js/main.a1187b89.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1e696fad.js",
     "runtime-main.js.map": "/static/js/runtime-main.1e696fad.js.map",
     "static/css/2.53150396.chunk.css": "/static/css/2.53150396.chunk.css",
@@ -18,13 +18,13 @@
     "static/media/styles.css": "/static/media/Landscape_Hackathon_1.10ccba1a.png",
     "static/media/discord.9a823ca6.svg": "/static/media/discord.9a823ca6.svg",
     "static/media/linkedin.171001b5.svg": "/static/media/linkedin.171001b5.svg",
-    "static/media/mycological-mayhem.83a7dd16.svg": "/static/media/mycological-mayhem.83a7dd16.svg"
+    "static/media/mycological-mayhem.f2efacbc.svg": "/static/media/mycological-mayhem.f2efacbc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1e696fad.js",
     "static/css/2.53150396.chunk.css",
     "static/js/2.17592633.chunk.js",
     "static/css/main.1ba2e82e.chunk.css",
-    "static/js/main.3e2c0983.chunk.js"
+    "static/js/main.a1187b89.chunk.js"
   ]
 }
