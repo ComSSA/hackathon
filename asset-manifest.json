@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ba2e82e.chunk.css",
-    "main.js": "/static/js/main.a1187b89.chunk.js",
-    "main.js.map": "/static/js/main.a1187b89.chunk.js.map",
+    "main.css": "/static/css/main.e0270b29.chunk.css",
+    "main.js": "/static/js/main.a6014620.chunk.js",
+    "main.js.map": "/static/js/main.a6014620.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1e696fad.js",
     "runtime-main.js.map": "/static/js/runtime-main.1e696fad.js.map",
     "static/css/2.53150396.chunk.css": "/static/css/2.53150396.chunk.css",
@@ -12,9 +12,9 @@
     "static/js/3.065c1017.chunk.js.map": "/static/js/3.065c1017.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.53150396.chunk.css.map": "/static/css/2.53150396.chunk.css.map",
-    "static/css/main.1ba2e82e.chunk.css.map": "/static/css/main.1ba2e82e.chunk.css.map",
+    "static/css/main.e0270b29.chunk.css.map": "/static/css/main.e0270b29.chunk.css.map",
     "static/js/2.17592633.chunk.js.LICENSE.txt": "/static/js/2.17592633.chunk.js.LICENSE.txt",
-    "static/media/Landscape_Hackathon.ac6d4280.svg": "/static/media/Landscape_Hackathon.ac6d4280.svg",
+    "static/media/Landscape_Hackathon.d726a639.svg": "/static/media/Landscape_Hackathon.d726a639.svg",
     "static/media/styles.css": "/static/media/Landscape_Hackathon_1.10ccba1a.png",
     "static/media/discord.9a823ca6.svg": "/static/media/discord.9a823ca6.svg",
     "static/media/linkedin.171001b5.svg": "/static/media/linkedin.171001b5.svg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.1e696fad.js",
     "static/css/2.53150396.chunk.css",
     "static/js/2.17592633.chunk.js",
-    "static/css/main.1ba2e82e.chunk.css",
-    "static/js/main.a1187b89.chunk.js"
+    "static/css/main.e0270b29.chunk.css",
+    "static/js/main.a6014620.chunk.js"
   ]
 }
