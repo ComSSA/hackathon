@@ -23,7 +23,7 @@ body {
 
 .container {
 	width: 100%;
-	padding-top: 55px;
+	padding: 40px;
 }
 .col-4 {
 	width: 25%;
